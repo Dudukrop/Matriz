@@ -1,0 +1,7 @@
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - MatrizesPratica2\Exercicio - MatrizesPratica2\bin\Debug\Exercicio - MatrizesPratica2.exe.config
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - MatrizesPratica2\Exercicio - MatrizesPratica2\bin\Debug\Exercicio - MatrizesPratica2.exe
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - MatrizesPratica2\Exercicio - MatrizesPratica2\bin\Debug\Exercicio - MatrizesPratica2.pdb
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - MatrizesPratica2\Exercicio - MatrizesPratica2\obj\Debug\Exercicio - MatrizesPratica2.csproj.AssemblyReference.cache
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - MatrizesPratica2\Exercicio - MatrizesPratica2\obj\Debug\Exercicio - MatrizesPratica2.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - MatrizesPratica2\Exercicio - MatrizesPratica2\obj\Debug\Exercicio - MatrizesPratica2.exe
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - MatrizesPratica2\Exercicio - MatrizesPratica2\obj\Debug\Exercicio - MatrizesPratica2.pdb
